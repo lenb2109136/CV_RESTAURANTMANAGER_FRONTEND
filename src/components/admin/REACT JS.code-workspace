@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../REACT JS"
+		},
+		{
+			"path": "../../../../../REACT PROHJECT"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../A- Dự án hệ thống thông tin địa lý/htttdl"
+		},
+		{
+			"path": "../../../../../../Pictures/free-travel-website-template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "free-travel-website-template"
+	}
+}
